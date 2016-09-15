@@ -50,3 +50,4 @@ end
     @post = Post.find(params[:id])
   end
 end
+#ddffdff
