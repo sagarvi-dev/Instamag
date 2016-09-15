@@ -16,7 +16,7 @@ end
       render :new
     end
   end
-
+#fdsgdg
 def show  
   @post = Post.find(params[:id])
 end 
